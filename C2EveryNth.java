@@ -2,7 +2,7 @@ class C2EveryNth extends ConsoleProgram {
 
   /**
   * Description
-  * @author:
+  * @author: E. Yap
   */
   
   public void run() {
